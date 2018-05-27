@@ -1,8 +1,8 @@
 from drop import drop
    
-no_drops = 500                 
+no_drops = 2000                 
 def setup():
-    size(2000, 1000)
+    size(4000, 3000)
     global d
     d = []
     for i in range(no_drops):
